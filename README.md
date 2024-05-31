@@ -40,25 +40,25 @@ This project is a React application that interacts with the PokeAPI to fetch and
 
    npm install
   
-4. Start the development server:
+3. Start the development server:
 
    npm start
 
-5. Running Tests
+4. Running Tests
 
-  A. To run the unit tests, use the following command:
-    npm test
-
-  B.To check test coverage, use:
-    npm run test:coverage
+   A. To run the unit tests, use the following command:
+      npm test
+   
+   B.To check test coverage, use:
+      npm run test:coverage
 
 5. Linting and Formatting
 
    A.To lint the code, use:
-     npm run lint
-
-  B.To format the code, use:
-    npm run format
+      npm run lint
+   
+   B.To format the code, use:
+     npm run format
 
 Contributing
 
