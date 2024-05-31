@@ -38,13 +38,13 @@ This project is a React application that interacts with the PokeAPI to fetch and
    
 2. Install the dependencies:
 
-  npm install
+   npm install
   
-3. Start the development server:
+4. Start the development server:
 
    npm start
 
-4. Running Tests
+5. Running Tests
 
   A. To run the unit tests, use the following command:
     npm test
