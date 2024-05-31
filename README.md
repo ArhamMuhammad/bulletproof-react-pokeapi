@@ -60,7 +60,10 @@ This project is a React application that interacts with the PokeAPI to fetch and
    B.To format the code, use:
      npm run format
 
-Contributing
+## Enable Husky:
+mv .husky_temp .husky
+
+## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
 License
