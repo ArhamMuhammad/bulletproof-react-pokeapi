@@ -34,17 +34,18 @@ This project is a React application that interacts with the PokeAPI to fetch and
 1. Clone the repository:
 
    git clone https://github.com/ArhamMuhammad/bulletproof-react-pokeapi.git
+
    cd bulletproof-react-pokeapi
    
-2. Install the dependencies:
+3. Install the dependencies:
 
    npm install
   
-3. Start the development server:
+4. Start the development server:
 
    npm start
 
-4. Running Tests
+5. Running Tests
 
    A. To run the unit tests, use the following command:
       npm test
@@ -52,7 +53,7 @@ This project is a React application that interacts with the PokeAPI to fetch and
    B.To check test coverage, use:
       npm run test:coverage
 
-5. Linting and Formatting
+6. Linting and Formatting
 
    A.To lint the code, use:
       npm run lint
